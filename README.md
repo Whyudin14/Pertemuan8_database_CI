@@ -1,2 +1,2 @@
 # Pertemuan8_database_CI
-Ini adalah repository tugas praktikum pertemuan 8
+Tugas Praktikum Pertemuan 8
